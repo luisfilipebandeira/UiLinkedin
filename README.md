@@ -1,5 +1,5 @@
 <h1 align="center">
-    eWallet
+    UiLinkedin
 </h1>
 <br>
 <p>
@@ -9,6 +9,15 @@ Interface do Linkedin com o shimmer efect
 <h4 align="center">
   Linkedin
 </h4>
+
+<h1 align="center">
+    <img src=".github/index.png" />
+</h1>
+
+Responsivo
+<h1 align="center">
+    <img src=".github/mobile.png" />
+</h1>
 
 ## :rocket: Tecnologias
 
